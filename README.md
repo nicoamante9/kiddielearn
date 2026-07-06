@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 KiddieLearn is a full-stack web application developed to support preschool education through an interactive learning management system.
 
@@ -96,7 +96,7 @@ The application focuses on providing a responsive, child-friendly interface that
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## Prerequisites
 
@@ -225,6 +225,6 @@ Although KiddieLearn was developed as a capstone project, I independently design
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and portfolio purposes.
