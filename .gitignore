@@ -16,3 +16,7 @@ node_modules/
 
 # Composer dependencies (if applicable)
 vendor/
+
+# User uploaded files
+uploads/
+uploads_lessons/
